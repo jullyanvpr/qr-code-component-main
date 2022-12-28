@@ -6,7 +6,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
- Overview
+- [README.md](#readmemd)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -70,7 +81,8 @@ I would like to practice mobile-first workflow concepts and also CSS grid. I’m
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/jullyanvpr](https://www.frontendmentor.io/profile/jullyanvpr)
+- Github - [https://github.com/jullyanvpr](https://github.com/jullyanvpr)
+- Frontend Mentor page - [https://www.frontendmentor.io/profile/jullyanvpr](https://www.frontendmentor.io/profile/jullyanvpr)
 
 ## Acknowledgments
 
