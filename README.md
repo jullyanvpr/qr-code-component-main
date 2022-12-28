@@ -6,13 +6,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- Overview
+ Overview
+
 
 ## Overview
 
 ### Screenshot
 
-![Untitled](README%20md%207f8b833b117d4908b46ada5e9ecbd13d/Untitled.png)
+![Printscreen from the application](./images/printscreen.png)
 
 ### Links
 
